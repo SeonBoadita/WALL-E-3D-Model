@@ -16,7 +16,6 @@
 
 ## Video
 
-<video width="300" controls>
-  <source src="video/wall-e.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Video Download
+[Download wall-e.mp4](https://github.com/SeonBoadita/WALL-E-3D-Model-/releases/latest)
+
